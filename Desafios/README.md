@@ -2,7 +2,8 @@
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
-<h2 align="center"> Aulas e Desafios do Bootcamp Launchbase </h2>
+<h2 align="center"> Aulas e Desafios do Módulo 1 do Bootcamp Launchbase </h2>
+<h3>Assunto: JavaScript</h3>
 
 <p align="center"> 
   <a href="https://opensource.org/licenses/MIT"> 
