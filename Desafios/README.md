@@ -13,21 +13,8 @@
 ## Módulo 1 - Introdução à programação WEB:
 - [x] 1. Desafio 1.1 - Variáveis, condicionais e operadores
 - [x] 2. Desafio 1.2 - Objetos e Vetores
-- [ ] 3. Desafio 1.3 - Funções e estruturas de repetição
+- [x] 3. Desafio 1.3 - Funções e estruturas de repetição
 - [ ] 4. Desafio 1.4 - Aplicação: Operações bancárias
-
-## Módulo 2 - Introdução ao Front-End:
-- [ ] 1. Desafio 2.1 - Primeiro HTML
-- [ ] 2. Desafio 2.1 - Página de descrição
-- [ ] 3. Desafio 2.3 - Página de cursos e iframe
-- [ ] 4. Desafio 2.4 - Construindo o Foodfy
-
-## Módulo 3 - Introdução ao Back-End:
-- [ ] 1. Desafio 3.1 - Primeiro servidor
-- [ ] 2. Desafio 3.2 - Nunjucks e dados dinâmicos
-- [ ] 3. Desafio 3.3 - Página de descrição de cursos
-- [ ] 4. Desafio 3.4 - Refatorando Foodfy
-
 
 ## :key: Licença:
 
