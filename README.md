@@ -3,8 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Desafio 2-2: Página de descrição
+  Conteúdos e anotações aprendidas no Módulo 1 do Bootcamp LaunchBase da RocketSeat
 </h3>
+
+<h4>Assunto:JavaScript</h4>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
 
